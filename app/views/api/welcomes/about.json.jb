@@ -1,0 +1,2 @@
+{ message: "This is a message about my favorite coding language",
+  favorite_language: @coding }
